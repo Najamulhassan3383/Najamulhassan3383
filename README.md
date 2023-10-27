@@ -1,11 +1,11 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Abdul Hadi</h1>
+<h1 align="center">Hi 👋, I'm Najam ul Hassan</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhadihub&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhadihub" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://abdulhadihub.github.io/abdul-hadi-portfolio/](https://abdulhadihub.github.io/abdul-hadi-portfolio/)
+- 👨‍💻 All of my projects are available at [[https://github.com/Najamulhassan3383]]
 
 - 📫 How to reach me **najmulhassan721@gmail.com**
 
@@ -33,8 +33,8 @@
 [![Git Badge](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/MS%20SQL-a21518?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](#)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulhadihub&show_icons=true&locale=en&layout=compact" alt="abdulhadihub" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Najamulhassan3383&show_icons=true&locale=en&layout=compact" alt="Najamulhassan3383" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulhadihub&show_icons=true&locale=en" alt="abdulhadihub" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Najamulhassan3383&show_icons=true&locale=en" alt="Najamulhassan3383" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhadihub&" alt="abdulhadihub" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Najamulhassan3383&" alt="Najamulhassan3383" /></p>
